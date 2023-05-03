@@ -1,5 +1,5 @@
 {
-  "name": "authjs-nextjs-app-router",
+  "name": "nextauth-nextjs-app-router",
   "version": "0.1.0",
   "private": true,
   "scripts": {
