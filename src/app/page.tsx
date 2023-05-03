@@ -11,7 +11,7 @@ export default async function Home() {
     <div className="flex flex-col items-center justify-between min-h-screen pt-24 pb-12">
       <main className="flex-1 flex flex-col items-center justify-top text-center">
         <h1 className="text-2xl font-semibold mb-6">
-          Authjs with Nextjs App Router
+          NextAuth with Nextjs App Router
         </h1>
         {session?.user ? (
           <div>
